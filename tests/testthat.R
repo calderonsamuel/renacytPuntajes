@@ -1,4 +1,4 @@
 library(testthat)
 library(renacytPuntajes)
 
-test_check("renacytPuntajes")
+# test_check("renacytPuntajes")
